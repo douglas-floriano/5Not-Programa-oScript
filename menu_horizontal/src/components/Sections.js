@@ -20,7 +20,14 @@ export default function Sections() {
       <section id="inicio">
         <h2>Inicio</h2>
       </section>
-
+      <aside className="aside">
+        <a href="#inicio" id="inicio2">Nosso Canal</a>
+        <a href="#cursos" id="curso2">Cursos</a>
+        <a href="#contatos" id="contatos2">Contatos</a>
+        <a href="#parceiros" id="parceiros2">Parceiros</a>
+        <a href="#missao" id="missao2">Missão</a>
+        <a href="#sobre" id="sobre2">Sobre</a>
+      </aside>
       <section id="cursos">
         <h3>Cursos</h3>
       </section>

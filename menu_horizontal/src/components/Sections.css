@@ -148,3 +148,44 @@ irFooter {
 .irContatos:hover {
   background-color: aquamarine;
 }
+/*
+configurações do aside (menu lateral esquerdo)
+*/
+.aside a {
+  position: fixed;
+  left: -5vw;
+  transition: .2s;
+  padding: 2vh;
+  width: 5vw;
+  text-decoration: none;
+  font-size: 16px;
+  color: #fff;
+  border-radius: 0 15px 15px 0;
+  }
+  .aside a:hover {
+  left: 0;
+  }
+  #inicio2 {
+  top: 20vh;
+  background-color: blue;
+  }
+  #curso2 {
+  top: 30vh;
+  background-color: red;
+  }
+  #contatos2 {
+  top: 40vh;
+  background-color: black;
+  }
+  #parceiros2 {
+  top: 50vh;
+  background-color: cyan;
+  }
+  #missao2 {
+  top: 60vh;
+  background-color: rgba(0, 255, 115, 0.28);;
+  }
+  #sobre2 {
+  top: 70vh;
+  background-color: salmon;
+  }
