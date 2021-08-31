@@ -1,0 +1,10 @@
+/*
+  Configuração do Componente Titulo
+*/
+
+.titulo{
+  height: 7vh;
+  background-color: green;
+  border: 1px solid darkorange;
+  
+}
